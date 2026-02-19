@@ -15,4 +15,5 @@ export default defineConfig({
       include: "**/*.svg?react",
     }),
   ],
+  base: "/interactive-rating-component",
 });
