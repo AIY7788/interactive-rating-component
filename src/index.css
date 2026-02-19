@@ -10,7 +10,7 @@
   --color-grey-950: hsl(216 12% 8%);
 
   /* Typography */
-  --font-overpass: "Overpass", sans-serif;
+  --font-overpass: "Overpass", "Arial", sans-serif;
   --text-body: 0.9375rem;
   --font-weight-regular: 400;
   --font-weight-bold: 700;
